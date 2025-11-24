@@ -1,0 +1,130 @@
+# Lecture 1: Setting Up Your IDE and Future Projects with HTML, CSS, and JavaScript
+
+## Link to Slides
+
+[https://slides.com/harkiratsingh-8/deck](https://slides.com/harkiratsingh-8/deck)
+
+---
+
+## Introduction to Browsers and Website Rendering
+
+### Browsers
+
+* **Definition:** Software applications designed to retrieve, present, and traverse information on the World Wide Web.
+* **Rendering Engine:** The component responsible for interpreting HTML, CSS, and JavaScript to display webpages.
+
+  * Examples: WebKit (Safari), Blink (Chrome), Gecko (Firefox)
+* **Primary Function:** Execute client-side scripts (JavaScript) and render the Document Object Model (DOM) based on received HTML and CSS.
+
+---
+
+## Web Communication (Client-Server Model)
+
+### Client
+
+* The browser or user agent making requests.
+
+### Server
+
+* The machine responding with the requested resources.
+
+### HTTP/HTTPS
+
+* Protocols used for transmitting requests and responses.
+
+### URL (Uniform Resource Locator)
+
+* **Structure:** Protocol (http/https), domain name, path, optional query parameters.
+* **Purpose:** Identifies the resource's location on the server.
+
+---
+
+## Web Page Lifecycle
+
+1. **Request Initiation:** User enters a URL or clicks a link.
+2. **Request Sent:** Browser parses the URL and sends an HTTP/HTTPS request to the server.
+3. **Server Response:** Server returns HTML, CSS, JavaScript, and metadata in the response headers.
+
+### Response Headers Include:
+
+* Content type
+* Status code
+* Caching policies
+
+---
+
+## Rendering Process
+
+1. **HTML Parsing:** Browser constructs the DOM.
+2. **CSS Parsing:** CSS is processed to create the CSSOM.
+3. **JavaScript Execution:** Scripts run and can modify the DOM/CSSOM.
+4. **Layout and Painting:** Browser computes layout and paints pixels on screen.
+
+---
+
+## Integrated Development Environment (IDE)
+
+### Definition
+
+A comprehensive software suite consolidating essential development tools.
+
+### Features
+
+* **Code Editor:** Syntax highlighting, auto-completion, refactoring tools.
+* **Debugger:** Step-through debugging, breakpoints.
+* **Build Automation Tools:** Automates repetitive tasks.
+* **Version Control:** Git integration for source code management.
+
+### Examples
+
+* Visual Studio Code
+* IntelliJ IDEA
+* Sublime Text
+
+---
+
+## HTML, CSS, and JavaScript
+
+### HTML (HyperText Markup Language)
+
+* Structures web pages using elements and attributes.
+* Promotes semantic markup for accessibility and SEO.
+
+### CSS (Cascading Style Sheets)
+
+* Styles and layouts for web pages.
+* Responsive design via media queries and flexible grids.
+
+### JavaScript
+
+* Client-side scripting for interactivity.
+* DOM manipulation, event handling, AJAX for asynchronous operations.
+
+---
+
+## Projects Using HTML, CSS, and JavaScript
+
+* **Interactive Forms:** Validations, conditional rendering.
+* **Single Page Applications (SPAs):** Built with React, Angular, Vue.js.
+* **Responsive Design:** Compatible across devices and screen sizes.
+* **API Integration:** Fetch and manipulate external data.
+
+---
+
+## Additional Points
+
+### Goal of a Website
+
+* Enables one user to communicate with another computer.
+* When a site loads, the server sends HTML, CSS, and JavaScript.
+
+### Goal of the Browser
+
+* Allows users to access servers anywhere via unique URLs.
+* Renders HTML, CSS, and JavaScript returned by the server.
+
+---
+
+## Conclusion
+
+This lecture introduced IDE setup and foundational web development concepts involving HTML, CSS, and JavaScript. Future lectures will explore advanced techniques and real-world project implementation.

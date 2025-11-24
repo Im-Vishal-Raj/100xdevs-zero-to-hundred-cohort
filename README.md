@@ -16,3 +16,17 @@ Thank you for visiting this repository. All the resources provided here are meti
 - ADVANCED BACKEND
 - ADVANCED DEVOPS
 - Practice Programming 
+
+<hr>
+
+># [0 - 1]
+
+ The foundational building blocks of my development journey within the 100xDevs program.
+
+##  [Week - 0 ( Prerequisites - HTML , CSS) + Assignment]()
+
+- Week 0.1 - Intro, Setting up your IDE
+- Week 0.2 - HTML Basics (Tags and Attributes)
+- Assignment - [Zerodha Landing Page]()
+
+<hr></hr>
