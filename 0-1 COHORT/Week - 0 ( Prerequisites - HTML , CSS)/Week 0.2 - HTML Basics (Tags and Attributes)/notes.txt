@@ -1,6 +1,7 @@
 Lecture 2: Basic HTML Tags and Attributes
 
 Introduction to HTML
+
 HyperText Markup Language (HTML):
 Defines the outer structure of a website.
 Utilized for creating the basic layout and structure of web pages.
@@ -51,8 +52,7 @@ Scalability: Can be scaled without quality loss.
 Transparency: Supports transparency.
 Use Cases: Best for logos, icons, and scalable graphics.
 
-WebP:
-File Extension: .webp.
+WebP: File Extension = .webp.
 Compression: Offers both lossy and lossless compression.
 Color Support: Suitable for various image types, including photos and graphics.
 Transparency: Supports both types of transparency.
@@ -60,6 +60,7 @@ Animation: Supports animations similar to GIFs.
 Use Cases: Popular for web use due to efficient compression and broad image support.
 
 Conclusion
+
 This lecture covered the basics of HTML, focusing on the structure and various tags.
 Practical application through the Zerodha landing page project.
 Future lectures will explore more advanced HTML, CSS, and JavaScript concepts and their practical applications.

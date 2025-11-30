@@ -1,0 +1,62 @@
+Lecture 3: CSS Basics
+
+This lecture covered the fundamentals of CSS, focusing on common styling attributes, the box model, and layout techniques using float and flexbox. Practical application involved redesigning a previously created landing page to reinforce the concepts learned. Future lectures will build on these basics, exploring more advanced CSS techniques and best practices.
+
+Introduction to CSS
+
+CSS (Cascading Style Sheets):
+⦁	It is not a programming language but a style sheet language.
+⦁	It is used to style, organize, and structure HTML documents.
+⦁	It is essential for meeting design requirements.
+
+Common Styling Attributes
+⦁	Color: Sets the text color.
+⦁	Background: Sets the background color or image.
+⦁	Border: Defines the border around an element.
+
+Box Model
+
+Box Model Terms
+⦁	Margin: Space outside the border.
+⦁	Padding: Space inside the border, between the border and the content.
+⦁	Border: The edge surrounding the padding and content.
+⦁	Box Shadow: Adds shadow effects around an element.
+
+Differences
+
+Margin vs. Padding
+⦁	Margin is outside the border.
+⦁	Padding is inside the border.
+
+Practical Application
+
+Project: Redesigned the Zerodha landing page (first created in Lecture 2) using CSS.
+
+Specific Direction Styling:
+⦁	Margin and padding can be applied in specific directions: top, right, bottom, and left.
+
+Float Property
+
+Float Property:
+⦁	Applied to span tags to reposition them within the parent element.
+⦁	Float directions: left and right.
+⦁	It helps in aligning elements but can affect layout flow and responsiveness.
+
+Flexbox
+
+Introduction to Flexbox
+⦁	Provides a flexible way to layout content.
+⦁	Div elements can be adjusted to take only the required amount of space and align in a single line.
+⦁	It is more responsive and scalable than absolute positioning or float.
+
+Key Properties
+⦁	justify-content: Aligns items along the main axis.
+⦁	Types: flex-start, flex-end, center, space-between, space-around, space-evenly.
+
+Benefits
+⦁	Flexbox is better for dynamic layouts compared to absolute positioning and float.
+
+⦁	Absolute positioning can be used for fixed-width and fixed-height elements but should be used carefully for responsiveness.
+
+Practical Flexbox Usage
+Flexbox was implemented in the redesigned Zerodha landing page to improve layout and responsiveness.
